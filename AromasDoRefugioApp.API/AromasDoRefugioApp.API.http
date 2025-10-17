@@ -1,0 +1,6 @@
+@AromasDoRefugioApp.API_HostAddress = http://localhost:5182
+
+GET {{AromasDoRefugioApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
